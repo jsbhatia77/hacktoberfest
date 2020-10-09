@@ -43,6 +43,7 @@ int editDistanceBottomUp(string str1,string str2,int m,int n){
 }
 
 int main(){
+    // Hacktoberfest Accepted
     string s1 = "sunday";
     string s2 = "saturday";
     int m = s1.length();

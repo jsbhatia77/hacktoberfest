@@ -16,6 +16,7 @@ int minCoins(int N,int coins[],int T){
 }
 
 int main(){
+	// It's hacktoberfest
 	int N;
 	cin>>N;
 	int coins[] = {1,5,7};
